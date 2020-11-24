@@ -1,0 +1,823 @@
+Vulnerable_population,Section,Long_title,Short_title,Group,Group1,Subgroup,Sex,Value
+Sex,A. Socio-demographic Characteristics,A1. Distribution of Sex among FY13 Veteran VHA Patients,Sex (Overall),Overall,,Overall,Women,382546
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,18-44,Women,162291
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,45-64,Women,175303
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,65+,Women,44742
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,AI/AN,Women,3049
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Asian,Women,4130
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Black/African American,Women,103644
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,NH/OPI,Women,3115
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,White,Women,215779
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Hispanic,Women,23536
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Multi-race,Women,3905
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Unknown,Women,25388
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Highly Rural,Women,3694
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Other Rural,Women,104319
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Urban,Women,270892
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,No SC,Women,154601
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 0-49,Women,102160
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 50-99,Women,101607
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 100,Women,23153
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,0 encounters,Women,9146
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,1 encounter,Women,17651
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,2 encounters,Women,21483
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,3-5 encounters,Women,58140
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,6-11 encounters,Women,83073
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,12+ encounters,Women,193053
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,0 encounters,Women,51051
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,1 encounter,Women,97913
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,2 encounters,Women,78060
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,3-5 encounters,Women,112335
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,6-11 encounters,Women,37081
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,12+ encounters,Women,6106
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,0 encounters,Women,236515
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,1 encounter,Women,29687
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,2 encounters,Women,19897
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,3-5 encounters,Women,37517
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,6-11 encounters,Women,28484
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,12+ encounters,Women,30446
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,0 encounters,Women,292368
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,1 encounter,Women,50442
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,2 encounters,Women,20000
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,3-5 encounters,Women,15819
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,6-11 encounters,Women,3422
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,12+ encounters,Women,495
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,0 encounters,Women,133765
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,1 encounter,Women,72205
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,2 encounters,Women,45934
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,3-5 encounters,Women,68538
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,6-11 encounters,Women,41071
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,12+ encounters,Women,21033
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,0 encounters,Women,382546
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,1 encounter,Women,262360
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,2 encounters,Women,12266
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,3-5 encounters,Women,24453
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,6-11 encounters,Women,30889
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,12+ encounters,Women,18617
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,INFECTIOUS DISEASE,Women,33961
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,ENDOCRINE/METABOLIC/NUTRITIONAL,Women,107168
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CARDIOVASCULAR,Women,195143
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,RESPIRATORY,Women,142182
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,GASTROINTESTINAL,Women,121391
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,URINARY,Women,118509
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,REPRODUCTIVE HEALTH,Women,56227
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,BREAST,Women,119581
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CANCER,Women,25780
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,HEMATOLOGIC/IMMUNOLOGIC,Women,19264
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MUSCULOSKELETAL,Women,36128
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,NEUROLOGIC,Women,218308
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MENTAL HEALTH/SUD,Women,113508
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,SENSE ORGAN,Women,176764
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DENTAL,Women,121879
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DERMATOLOGIC,Women,39305
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,OTHER,Women,83347
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,HIV/AIDS,Women,775
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Tuberculosis,Women,601
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Mycoses,Women,14380
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Infections - Other,Women,15995
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Diabetes Mellitus,Women,42660
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Lipid Disorders,Women,106034
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Overweight/Obesity,Women,73032
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Thyroid Disorders,Women,48390
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Osteoporosis,Women,12615
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Vitamin D Deficiency,Women,24829
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,"Endocrine, Metabolic and Nutritional Disorders - Other",Women,32606
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Fluid and Electrolyte Disorders,Women,12241
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Hypertension,Women,109125
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Chest Pain/Angina,Women,19834
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Acute MI,Women,763
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Coronary Artery Disease,Women,11644
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Heart Failure,Women,6592
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Valvular Disease,Women,6669
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Atrial Fibrillation/Flutter,Women,4837
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Arrhythmia/Conduction Disorder - Other,Women,14638
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cardiac Conditions - Other,Women,3778
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Accident/TIA,Women,6114
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Disease - Other,Women,4000
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pecondition Aortic Aneurysm,Women,632
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pulmonary Embolism or Deep Vein Thrombosis,Women,3829
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Vascular Disease - Other,Women,9886
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Circulatory System Conditions - Other,Women,11055
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Chronic Obstructive Pulmonary Disease,Women,15392
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Asthma,Women,28261
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Sarcoidosis,Women,1513
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Pneumonia,Women,3745
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory System Infections - Other,Women,45085
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Allergic and other chronic sinusitis/rhinitis,Women,49162
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,"Dyspnea, cough and other respiratory symptoms",Women,25085
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory Conditions - Other,Women,13771
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Esophageal disorders,Women,60138
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Nausea and vomiting,Women,9678
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastroduodenal ulcer,Women,2330
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastric/Duodenal Disorders - Other,Women,8914
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal hemorrhage,Women,5699
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,"Polyp, colorectal",Women,11320
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diverticulosis and diverticulitis,Women,5962
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Inflammatory Bowel Disease,Women,2418
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diarrhea/constipation and functional bowel disorders,Women,29530
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hernia,Women,6198
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hemorrhoids,Women,9539
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hepatitis C,Women,4220
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Liver disease - Other,Women,8615
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Biliary tract disease,Women,3766
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Pancreatic disorders,Women,1535
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal System Disorders - Other,Women,22181
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Renal failure or Nephropathy,Women,8369
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Calculus of urinary tract,Women,4393
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Hematuria,Women,4646
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Kidney/Ureter Diseases - Other,Women,2710
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Tract Infection (cystitis/ urethritis/ pyelonephritis),Women,21960
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Incontinence,Women,17388
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Symptoms - Other,Women,7817
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Conditions - Other,Women,6910
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Male genital disorders,Women,189
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,STIs,Women,7315
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Vaginitis/ cervicitis/ and other pelvic inflammatory conditions,Women,18200
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Cervical Dysplasia/ASCUS,Women,8074
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Endometriosis,Women,3489
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menstrual disorders,Women,23639
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Fibroids,Women,7754
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,"Ovarian cyst at least once, FY13",Women,4520
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Polycystic ovaries,Women,2923
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Benign Gynecologic Neoplasms - Other,Women,2663
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Prolapse of female genital organs,Women,2768
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Female Reproductive Organ Disorders - Other,Women,29926
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Sexual Dysfunction,Women,3308
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Contraceptive Care Management,Women,25763
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Infertility,Women,2878
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menopausal disorders,Women,27034
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Miscarriage,Women,890
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Ectopic pregnancy,Women,350
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy or Delivery - Normal,Women,8971
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy with Obstetrical Complications or Prolonged,Women,6843
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by DM,Women,718
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by HTN,Women,646
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy Complicated by Other Medical Conditions,Women,2914
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,PerBreast Conditions/Benign or Unknown,Women,17254
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,Breast conditions abnormal radiologic findings,Women,3611
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,PerCancer - Cervical,Women,1057
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Uterine,Women,677
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Ovarian,Women,618
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Female Reproductive - Other,Women,298
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Cervical,Women,703
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Female Reproductive - Other,Women,177
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Breast,Women,8051
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,"Carcinoma in Situ - Breast, Ductal or Lobular",Women,659
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Lymphomas,Women,869
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Leukemias,Women,408
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Multiple myeloma,Women,137
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Brain/Nervous System,Women,207
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Head and Neck,Women,520
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Thyroid,Women,1279
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bronchopulmonary,Women,1194
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Esophagus,Women,97
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Gastric,Women,88
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Colorectal,Women,1354
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Anal,Women,103
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Hepatobiliary,Women,133
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Pancreatic,Women,123
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Renal,Women,398
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bladder,Women,370
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Prostate,Women,48
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Testicular,Women,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bone/Connective Tissue,Women,205
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Melanoma,Women,1198
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Other,Women,102
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Other and Unspecified Primary,Women,3030
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Anemia,Women,28129
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Thrombocytopenia,Women,1737
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Coagulation and hemorrhagic disorders,Women,2112
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Hematologic/Immunologic Conditions - Other,Women,6849
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Connective Tissue Disease,Women,4732
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Rheumatoid Arthritis and Related Disease,Women,4763
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Inflammatory Spondyloarthropathies,Women,2125
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Polymyalgia Rheumatica,Women,335
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Vasculitis,Women,232
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Gout/Crystal Arthropathies,Women,2050
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Cervical,Women,33719
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Lumbosacral,Women,83291
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Other/Unspecified,Women,40071
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Upper Extremity,Women,42730
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Lower Extremity,Women,88278
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Unspecified or Multiple Joints,Women,62451
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Foot deformities,Women,16256
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - hip,Women,562
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - Other,Women,9419
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Osteomyelitis/Infectious Arthritis,Women,699
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Amputation,Women,627
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Myasthenia Gravis/Myoneuronal Disorders,Women,237
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,"Myalgia/Myositis, unspecified",Women,21412
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Musculoskeletal conditions - Other,Women,50599
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Multiple sclerosis,Women,3154
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Epilepsy- convulsions,Women,5863
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Parkinsons disease,Women,626
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Intracranial Hemorrhage,Women,372
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,TBI,Women,5453
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dementia,Women,3825
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Cognitive Disorders - Other,Women,8798
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Spinal cord injury,Women,859
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Paralysis - Other,Women,1301
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Headache,Women,61225
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dizziness/vertigo,Women,11732
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Peripheral Nerve Disorders,Women,15824
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Carpal Tunnel Syndrome,Women,10620
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Nervous System Symptoms/Disorders - Other,Women,22803
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Major Depressive Disorder,Women,50106
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Depression, possible - Other",Women,100151
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,PTSD,Women,61334
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Acute stress disorders,Women,2648
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Anxiety disorders/ other,Women,65179
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Adjustment disorders,Women,17059
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Bipolar disorders,Women,21428
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Schizophrenia,Women,6682
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Psychotic disorders - Other,Women,4062
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Alcohol use disorders,Women,17669
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Drug use disorders,Women,14722
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Eating disorders,Women,1775
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Dissociative disorders,Women,509
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Personality disorders,Women,10855
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Conduct/impulse control disorders,Women,1227
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Somatiform disorders,Women,3672
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Attention Deficit Disorder/Hyperkinetic Disorder,Women,6227
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Psychiatric disorders, nonspecific",Women,8202
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,PerBlindness/Low Vision,Women,4683
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Refraction disorders,Women,66467
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Glaucoma,Women,18331
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Cataract,Women,32253
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Eye disorders - Other,Women,56298
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Hearing problems,Women,24638
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Ear disorders - Other,Women,16716
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Caries,Women,25153
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Gingivitis/Periodontitis,Women,16352
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Loss of Teeth,Women,10286
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Disorders - Other,Women,31229
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin cancer (non-Melanoma),Women,3556
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin ulcer - chronic,Women,1996
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin infection,Women,11037
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Psoriasis,Women,2892
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Dermatologic disorders - Other,Women,73841
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep apnea,Women,21778
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep disturbance - Other,Women,32554
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Malaise and fatigue,Women,9710
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Syncope,Women,3745
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Abdominal pain,Women,26569
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Chronic Pain Syndromes,Women,19432
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Allergies and urticaria,Women,13106
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Edema,Women,8290
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Symptoms - Other,Women,11747
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use Disorder,Women,52766
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use History,Women,5551
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Poisoning,Women,1653
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Other injuries and conditions due to external causes,Women,32965
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Effects of surgical procedures or medical care,Women,6274
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Housing insufficiency,Women,16018
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Psychosocial factors - Other,Women,34209
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Residual Codes,Women,41689
+Sex,A. Socio-demographic Characteristics,A1. Distribution of Sex among FY13 Veteran VHA Patients,Sex (Overall),Overall,,Overall,Men,5268290
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,18-44,Men,736001
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,45-64,Men,1958728
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,65+,Men,2573299
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,AI/AN,Men,27843
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Asian,Men,41822
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Black/African American,Men,769656
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,NH/OPI,Men,32188
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,White,Men,3906882
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Hispanic,Men,279739
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Multi-race,Men,30211
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Unknown,Men,179949
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Highly Rural,Men,70801
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Other Rural,Men,1926636
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Urban,Men,3250172
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,No SC,Men,2747710
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 0-49,Men,1210696
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 50-99,Men,947356
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 100,Men,358868
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,0 encounters,Men,134389
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,1 encounter,Men,290549
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,2 encounters,Men,392121
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,3-5 encounters,Men,992332
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,6-11 encounters,Men,1216535
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,12+ encounters,Men,2242364
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,0 encounters,Men,675959
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,1 encounter,Men,1593758
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,2 encounters,Men,1166640
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,3-5 encounters,Men,1351567
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,6-11 encounters,Men,380460
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,12+ encounters,Men,99906
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,0 encounters,Men,3989184
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,1 encounter,Men,295258
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,2 encounters,Men,197095
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,3-5 encounters,Men,344853
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,6-11 encounters,Men,212051
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,12+ encounters,Men,229849
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,0 encounters,Men,4329385
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,1 encounter,Men,530199
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,2 encounters,Men,202663
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,3-5 encounters,Men,163440
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,6-11 encounters,Men,37154
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,12+ encounters,Men,5449
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,0 encounters,Men,2303099
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,1 encounter,Men,1006495
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,2 encounters,Men,564195
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,3-5 encounters,Men,751534
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,6-11 encounters,Men,410743
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,12+ encounters,Men,232224
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,0 encounters,Men,5268290
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,1 encounter,Men,4391902
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,2 encounters,Men,157471
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,3-5 encounters,Men,121589
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,6-11 encounters,Men,157269
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,12+ encounters,Men,124428
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,INFECTIOUS DISEASE,Men,315631
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,ENDOCRINE/METABOLIC/NUTRITIONAL,Men,1094018
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CARDIOVASCULAR,Men,3400642
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,RESPIRATORY,Men,3282128
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,GASTROINTESTINAL,Men,1428745
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,URINARY,Men,1841616
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,REPRODUCTIVE HEALTH,Men,870696
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,BREAST,Men,1266318
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CANCER,Men,17336
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,HEMATOLOGIC/IMMUNOLOGIC,Men,556695
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MUSCULOSKELETAL,Men,552908
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,NEUROLOGIC,Men,2595703
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MENTAL HEALTH/SUD,Men,1259908
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,SENSE ORGAN,Men,1702365
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DENTAL,Men,2283225
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DERMATOLOGIC,Men,424185
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,OTHER,Men,1151643
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,HIV/AIDS,Men,25627
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Tuberculosis,Men,6284
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Mycoses,Men,334124
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Infections - Other,Men,182472
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Diabetes Mellitus,Men,1302762
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Lipid Disorders,Men,2566540
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Overweight/Obesity,Men,799856
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Thyroid Disorders,Men,359791
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Osteoporosis,Men,50956
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Vitamin D Deficiency,Men,228589
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,"Endocrine, Metabolic and Nutritional Disorders - Other",Men,622675
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Fluid and Electrolyte Disorders,Men,204312
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Hypertension,Men,2773760
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Chest Pain/Angina,Men,254889
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Acute MI,Men,31597
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Coronary Artery Disease,Men,887628
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Heart Failure,Men,265653
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Valvular Disease,Men,148482
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Atrial Fibrillation/Flutter,Men,295669
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Arrhythmia/Conduction Disorder - Other,Men,288878
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cardiac Conditions - Other,Men,64860
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Accident/TIA,Men,214106
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Disease - Other,Men,114663
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pecondition Aortic Aneurysm,Men,73829
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pulmonary Embolism or Deep Vein Thrombosis,Men,80692
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Vascular Disease - Other,Men,308367
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Circulatory System Conditions - Other,Men,199418
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Chronic Obstructive Pulmonary Disease,Men,510647
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Asthma,Men,155652
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Sarcoidosis,Men,9229
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Pneumonia,Men,87571
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory System Infections - Other,Men,332447
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Allergic and other chronic sinusitis/rhinitis,Men,391924
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,"Dyspnea, cough and other respiratory symptoms",Men,338625
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory Conditions - Other,Men,272383
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Esophageal disorders,Men,947112
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Nausea and vomiting,Men,57327
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastroduodenal ulcer,Men,47678
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastric/Duodenal Disorders - Other,Men,100588
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal hemorrhage,Men,96413
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,"Polyp, colorectal",Men,326848
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diverticulosis and diverticulitis,Men,139791
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Inflammatory Bowel Disease,Men,31837
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diarrhea/constipation and functional bowel disorders,Men,226443
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hernia,Men,144973
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hemorrhoids,Men,128095
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hepatitis C,Men,137069
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Liver disease - Other,Men,188834
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Biliary tract disease,Men,39767
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Pancreatic disorders,Men,28148
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal System Disorders - Other,Men,250467
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Renal failure or Nephropathy,Men,386110
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Calculus of urinary tract,Men,90695
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Hematuria,Men,103578
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Kidney/Ureter Diseases - Other,Men,84761
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Tract Infection (cystitis/ urethritis/ pyelonephritis),Men,116479
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Incontinence,Men,103912
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Symptoms - Other,Men,117323
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Conditions - Other,Men,148427
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Male genital disorders,Men,699745
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,STIs,Men,32352
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Vaginitis/ cervicitis/ and other pelvic inflammatory conditions,Men,244
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Cervical Dysplasia/ASCUS,Men,74
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Endometriosis,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menstrual disorders,Men,360
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Fibroids,Men,14
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,"Ovarian cyst at least once, FY13",Men,259
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Polycystic ovaries,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Benign Gynecologic Neoplasms - Other,Men,76
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Prolapse of female genital organs,Men,92
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Female Reproductive Organ Disorders - Other,Men,7908
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Sexual Dysfunction,Men,421496
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Contraceptive Care Management,Men,6761
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Infertility,Men,732
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menopausal disorders,Men,332
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Miscarriage,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Ectopic pregnancy,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy or Delivery - Normal,Men,49
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy with Obstetrical Complications or Prolonged,Men,765
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by DM,Men,12
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by HTN,Men,218
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy Complicated by Other Medical Conditions,Men,44
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,PerBreast Conditions/Benign or Unknown,Men,15945
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,Breast conditions abnormal radiologic findings,Men,184
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,PerCancer - Cervical,Men,31
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Uterine,Men,18
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Ovarian,Men,28
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Female Reproductive - Other,Men,32
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Cervical,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Female Reproductive - Other,Men,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Breast,Men,1524
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,"Carcinoma in Situ - Breast, Ductal or Lobular",Men,52
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Lymphomas,Men,25457
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Leukemias,Men,20393
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Multiple myeloma,Men,6954
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Brain/Nervous System,Men,3723
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Head and Neck,Men,32946
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Thyroid,Men,6764
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bronchopulmonary,Men,44121
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Esophagus,Men,6683
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Gastric,Men,3854
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Colorectal,Men,50908
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Anal,Men,1010
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Hepatobiliary,Men,9136
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Pancreatic,Men,4521
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Renal,Men,22542
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bladder,Men,45884
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Prostate,Men,270358
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Testicular,Men,3807
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bone/Connective Tissue,Men,4061
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Melanoma,Men,37904
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Other,Men,4730
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Other and Unspecified Primary,Men,77208
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Anemia,Men,382355
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Thrombocytopenia,Men,64911
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Coagulation and hemorrhagic disorders,Men,32854
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Hematologic/Immunologic Conditions - Other,Men,119310
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Connective Tissue Disease,Men,11223
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Rheumatoid Arthritis and Related Disease,Men,42759
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Inflammatory Spondyloarthropathies,Men,16762
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Polymyalgia Rheumatica,Men,7941
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Vasculitis,Men,3288
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Gout/Crystal Arthropathies,Men,215228
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Cervical,Men,272890
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Lumbosacral,Men,920508
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Other/Unspecified,Men,388872
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Upper Extremity,Men,503806
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Lower Extremity,Men,829093
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Unspecified or Multiple Joints,Men,796327
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Foot deformities,Men,156853
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - hip,Men,9416
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - Other,Men,102586
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Osteomyelitis/Infectious Arthritis,Men,21385
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Amputation,Men,38818
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Myasthenia Gravis/Myoneuronal Disorders,Men,5105
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,"Myalgia/Myositis, unspecified",Men,55783
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Musculoskeletal conditions - Other,Men,402610
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Multiple sclerosis,Men,12868
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Epilepsy- convulsions,Men,83376
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Parkinsons disease,Men,46211
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Intracranial Hemorrhage,Men,10038
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,TBI,Men,82083
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dementia,Men,144907
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Cognitive Disorders - Other,Men,162999
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Spinal cord injury,Men,20740
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Paralysis - Other,Men,21779
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Headache,Men,225060
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dizziness/vertigo,Men,139173
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Peripheral Nerve Disorders,Men,255556
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Carpal Tunnel Syndrome,Men,74240
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Nervous System Symptoms/Disorders - Other,Men,317436
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Major Depressive Disorder,Men,284961
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Depression, possible - Other",Men,803171
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,PTSD,Men,621095
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Acute stress disorders,Men,9770
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Anxiety disorders/ other,Men,446202
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Adjustment disorders,Men,128013
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Bipolar disorders,Men,109071
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Schizophrenia,Men,84065
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Psychotic disorders - Other,Men,51063
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Alcohol use disorders,Men,382322
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Drug use disorders,Men,231816
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Eating disorders,Men,1326
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Dissociative disorders,Men,995
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Personality disorders,Men,44794
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Conduct/impulse control disorders,Men,16236
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Somatiform disorders,Men,18023
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Attention Deficit Disorder/Hyperkinetic Disorder,Men,34296
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Psychiatric disorders, nonspecific",Men,89267
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,PerBlindness/Low Vision,Men,101801
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Refraction disorders,Men,992113
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Glaucoma,Men,421306
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Cataract,Men,904396
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Eye disorders - Other,Men,882349
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Hearing problems,Men,970827
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Ear disorders - Other,Men,255761
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Caries,Men,274000
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Gingivitis/Periodontitis,Men,193944
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Loss of Teeth,Men,141066
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Disorders - Other,Men,312363
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin cancer (non-Melanoma),Men,153719
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin ulcer - chronic,Men,72776
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin infection,Men,164812
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Psoriasis,Men,57331
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Dermatologic disorders - Other,Men,956980
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep apnea,Men,463850
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep disturbance - Other,Men,327045
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Malaise and fatigue,Men,93119
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Syncope,Men,58121
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Abdominal pain,Men,163255
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Chronic Pain Syndromes,Men,182046
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Allergies and urticaria,Men,74310
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Edema,Men,136135
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Symptoms - Other,Men,163376
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use Disorder,Men,777633
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use History,Men,107881
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Poisoning,Men,17635
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Other injuries and conditions due to external causes,Men,358895
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Effects of surgical procedures or medical care,Men,85431
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Housing insufficiency,Men,160482
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Psychosocial factors - Other,Men,324205
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Residual Codes,Men,702316
+Sex,A. Socio-demographic Characteristics,A1. Distribution of Sex among FY13 Veteran VHA Patients,Sex (Overall),Overall,,Overall,Missing,1235
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,18-44,Missing,
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,45-64,Missing,
+Sex,A. Socio-demographic Characteristics,A3. Distribution of Sex among FY13 Veteran VHA Patients by Age FY13,Sex by Age Group,Age,,65+,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,AI/AN,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Asian,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Black/African American,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,NH/OPI,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,White,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Hispanic,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Multi-race,Missing,
+Sex,A. Socio-demographic Characteristics,"A4. Distribution of Sex among FY13 Veteran VHA Patients by Race/Ethnicity, FY13",Sex by Race/Ethnicity,Race/Ethnicity,,Unknown,Missing,
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Highly Rural,Missing,
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Other Rural,Missing,
+Sex,A. Socio-demographic Characteristics,"A5. Distribution of Sex among FY13 Veteran VHA Patients by Rural/Urban Status, FY13",Sex by Rural/Urban Status,Geography,,Urban,Missing,
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,No SC,Missing,
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 0-49,Missing,
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 50-99,Missing,
+Sex,A. Socio-demographic Characteristics,"A6. Distribution of Sex among FY13 Veteran VHA Patients by Service-Connected Status, FY13",Sex by Service-Connected Status,Service Connection,,SC 100,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B1. Distribution of Sex among FY13 Veteran VHA Patients by VHA Outpatient Visits, FY13",Sex by VHA Outpatient Visits,Encounters,Outpatient Visits,12+ encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B2. Distribution of Sex among FY13 Veteran VHA Patients by Primary Care Visits, FY13",Sex by Primary Care Visits,Encounters,Primary Care Visits,12+ encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B3. Distribution of Sex among FY13 Veteran VHA Patients by Mental Health/Substance Use Disorder Visits, FY13",Sex by Mental Health/Substance Use Disorder Visits,Encounters,Mental Health/Substance use Disorder Visits,12+ encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B4. Distribution of Sex among FY13 Veteran VHA Patients by Emergency Department Visits, FY13",Sex by Emergency Department Visits,Encounters,Emergency Department Visits,12+ encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B5. Distribution of Sex among FY13 Veteran VHA Patients by Telephone Visits, FY13",Sex by Telephone Visits,Encounters,Telephone Visits,12+ encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,0 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,1 encounter,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,2 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,3-5 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,6-11 encounters,Missing,
+Sex,B. VHA Outpatient Utilization,"B6. Distribution of Sex among FY13 Veteran VHA Patients by Fee Outpatient Visits, FY13",Sex by Fee Outpatient Services,Encounters,Fee Outpatient Services,12+ encounters,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,INFECTIOUS DISEASE,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,ENDOCRINE/METABOLIC/NUTRITIONAL,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CARDIOVASCULAR,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,RESPIRATORY,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,GASTROINTESTINAL,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,URINARY,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,REPRODUCTIVE HEALTH,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,BREAST,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,CANCER,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,HEMATOLOGIC/IMMUNOLOGIC,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MUSCULOSKELETAL,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,NEUROLOGIC,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,MENTAL HEALTH/SUD,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,SENSE ORGAN,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DENTAL,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,DERMATOLOGIC,Missing,
+Sex,C. Diagnoses,"C1. Distribution of Sex among FY13 Veteran VHA Patients by Domain, FY13",Sex by Domains,Domains,,OTHER,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,HIV/AIDS,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Tuberculosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Mycoses,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,INFECTIOUS DISEASE,Infections - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Diabetes Mellitus,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Lipid Disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Overweight/Obesity,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Thyroid Disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Osteoporosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Vitamin D Deficiency,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,"Endocrine, Metabolic and Nutritional Disorders - Other",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,ENDOCRINE/METABOLIC/NUTRITIONAL,Fluid and Electrolyte Disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Hypertension,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Chest Pain/Angina,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Acute MI,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Coronary Artery Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Heart Failure,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Valvular Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Atrial Fibrillation/Flutter,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Arrhythmia/Conduction Disorder - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cardiac Conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Accident/TIA,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Cerebrovascular Disease - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pecondition Aortic Aneurysm,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Pulmonary Embolism or Deep Vein Thrombosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Vascular Disease - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CARDIOVASCULAR,Circulatory System Conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Chronic Obstructive Pulmonary Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Asthma,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Sarcoidosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Pneumonia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory System Infections - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Allergic and other chronic sinusitis/rhinitis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,"Dyspnea, cough and other respiratory symptoms",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,RESPIRATORY,Respiratory Conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Esophageal disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Nausea and vomiting,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastroduodenal ulcer,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastric/Duodenal Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal hemorrhage,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,"Polyp, colorectal",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diverticulosis and diverticulitis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Inflammatory Bowel Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Diarrhea/constipation and functional bowel disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hernia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hemorrhoids,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Hepatitis C,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Liver disease - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Biliary tract disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Pancreatic disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,GASTROINTESTINAL,Gastrointestinal System Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Renal failure or Nephropathy,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Calculus of urinary tract,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Hematuria,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Kidney/Ureter Diseases - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Tract Infection (cystitis/ urethritis/ pyelonephritis),Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Incontinence,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Symptoms - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,URINARY,Urinary Conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Male genital disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,STIs,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Vaginitis/ cervicitis/ and other pelvic inflammatory conditions,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Cervical Dysplasia/ASCUS,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Endometriosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menstrual disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Fibroids,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,"Ovarian cyst at least once, FY13",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Polycystic ovaries,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Benign Gynecologic Neoplasms - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Prolapse of female genital organs,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Female Reproductive Organ Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Sexual Dysfunction,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Contraceptive Care Management,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Infertility,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Menopausal disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Miscarriage,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Ectopic pregnancy,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy or Delivery - Normal,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy with Obstetrical Complications or Prolonged,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by DM,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy complicated by HTN,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,REPRODUCTIVE HEALTH,Pregnancy Complicated by Other Medical Conditions,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,PerBreast Conditions/Benign or Unknown,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,BREAST,Breast conditions abnormal radiologic findings,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,PerCancer - Cervical,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Uterine,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Ovarian,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Female Reproductive - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Cervical,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Female Reproductive - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Breast,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,"Carcinoma in Situ - Breast, Ductal or Lobular",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Lymphomas,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Leukemias,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Multiple myeloma,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Brain/Nervous System,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Head and Neck,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Thyroid,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bronchopulmonary,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Esophagus,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Gastric,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Colorectal,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Anal,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Hepatobiliary,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Pancreatic,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Renal,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bladder,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Prostate,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Testicular,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Bone/Connective Tissue,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Melanoma,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Carcinoma in Situ - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,CANCER,Cancer - Other and Unspecified Primary,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Anemia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Thrombocytopenia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Coagulation and hemorrhagic disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,HEMATOLOGIC/IMMUNOLOGIC,Hematologic/Immunologic Conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Connective Tissue Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Rheumatoid Arthritis and Related Disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Inflammatory Spondyloarthropathies,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Polymyalgia Rheumatica,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Vasculitis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Gout/Crystal Arthropathies,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Cervical,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Lumbosacral,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Spine Disorders - Other/Unspecified,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Upper Extremity,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Lower Extremity,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Joint Disorders - Unspecified or Multiple Joints,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Foot deformities,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - hip,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Fracture - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Osteomyelitis/Infectious Arthritis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Amputation,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Myasthenia Gravis/Myoneuronal Disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,"Myalgia/Myositis, unspecified",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MUSCULOSKELETAL,Musculoskeletal conditions - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Multiple sclerosis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Epilepsy- convulsions,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Parkinsons disease,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Intracranial Hemorrhage,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,TBI,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dementia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Cognitive Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Spinal cord injury,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Paralysis - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Headache,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Dizziness/vertigo,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Peripheral Nerve Disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Carpal Tunnel Syndrome,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,NEUROLOGIC,Nervous System Symptoms/Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Major Depressive Disorder,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Depression, possible - Other",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,PTSD,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Acute stress disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Anxiety disorders/ other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Adjustment disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Bipolar disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Schizophrenia,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Psychotic disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Alcohol use disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Drug use disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Eating disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Dissociative disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Personality disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Conduct/impulse control disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Somatiform disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,Attention Deficit Disorder/Hyperkinetic Disorder,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,MENTAL HEALTH/SUBSTANCE USE DISORDER,"Psychiatric disorders, nonspecific",Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,PerBlindness/Low Vision,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Refraction disorders,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Glaucoma,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Cataract,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Eye disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Hearing problems,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,SENSE ORGANS,Ear disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Caries,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Gingivitis/Periodontitis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Loss of Teeth,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DENTAL,Dental Disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin cancer (non-Melanoma),Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin ulcer - chronic,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Skin infection,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Psoriasis,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,DERMATOLOGIC,Dermatologic disorders - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep apnea,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Sleep disturbance - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Malaise and fatigue,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Syncope,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Abdominal pain,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Chronic Pain Syndromes,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Allergies and urticaria,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Edema,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Symptoms - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use Disorder,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Tobacco Use History,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Poisoning,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Other injuries and conditions due to external causes,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Effects of surgical procedures or medical care,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Housing insufficiency,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Psychosocial factors - Other,Missing,
+Sex,C. Diagnoses,"C2. Distribution of Sex among FY13 Veteran VHA Patients by Condition, FY13",Sex by Conditions,Conditions,OTHER,Residual Codes,Missing,
